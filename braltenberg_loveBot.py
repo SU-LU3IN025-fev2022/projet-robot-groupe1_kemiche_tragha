@@ -1,3 +1,4 @@
+    
 # UE IA & JEUX - L3, SU
 # TP "comportement réactif"
 #
@@ -52,8 +53,8 @@ def step(robotId, sensors): # <<<<<<<<<------- fonction à modifier pour le TP1
     #   sensors["sensor_front_right"]["distance_to_wall"]
     #   sensors["sensor_front_right"]["distance_to_robot"]
 
-    translation = 1 * sensors["sensor_front"]["distance"]
-    rotation = (-1) * sensors["sensor_front_left"]["distance"] + (1) * sensors["sensor_front_right"]["distance"]
+    translation = ( 1 ) * sensors["sensor_front"]["distance_to_wall"]
+    rotation = ((1) * sensors["sensor_front_left"]["distance_to_robot"]) + ((-1) * sensors["sensor_front_right"]["distance_to_robot"]) 
 
     # limite les valeurs de sortie entre -1 et +1
     translation = max(-1,min(translation,1))
