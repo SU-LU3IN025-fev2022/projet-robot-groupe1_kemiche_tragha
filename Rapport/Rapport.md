@@ -50,27 +50,28 @@ Histogrammes résultats :
 
 ### Arène 0 : 
 
-PHOTO HISTOGRAMME
+![arene0_](https://user-images.githubusercontent.com/77555379/164427953-e5f7852d-ec05-49da-bcaa-f279e907bef9.png)
 
 ### Arène 1 : 
 
-PHOTO HISTOGRAMME
+![arene1](https://user-images.githubusercontent.com/77555379/164427783-e8804671-b3ad-4b4d-96a9-e3b656a3e20a.png)
 
 ### Arène 2 : 
 
-PHOTO HISTOGRAMME
+![arene2](https://user-images.githubusercontent.com/77555379/164427798-d3af8f84-c44f-4ed5-a173-1e65bc5f58d1.png)
 
 ### Arène 3 : 
 
-PHOTO HISTOGRAMME
+![arene3](https://user-images.githubusercontent.com/77555379/164427808-2914f233-7031-40b4-b85d-961b9fb1954b.png)
 
 ### Arène 4 :
 
-PHOTO HISTOGRAMME
+![arene4](https://user-images.githubusercontent.com/77555379/164427822-8cf74a6c-95a5-4c5c-9f2a-4c9f9c3efa02.png)
 
 ### Arène 5 : 
 
-PHOTO HISTOGRAMME
+![arene5](https://user-images.githubusercontent.com/77555379/164427881-c0fceaff-fc6a-4518-8a67-4c52cab2e304.png)
+
 
 ## Conclusion
 
