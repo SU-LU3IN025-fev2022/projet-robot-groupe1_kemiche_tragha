@@ -24,7 +24,7 @@ De plus on peut tirer avantage du comportement adverse, le robot traqueur suivra
 - Si on croise un chemin on l'emprunte -> Cela permet de couvrir un maximum de surface en accédant à des zones difficilement atteignables.
 Pour entrer dans un chemin, on procède comme suit :
 
-METTRE PHOTO PAINT
+![Capture d’écran 2022-04-21 à 10 27 10](https://user-images.githubusercontent.com/77555379/164427584-8bb3ed15-7934-4117-87e0-9517f3e02f9b.png)
 
 - Sinon on évite -> Comportement de Braitenberg pour éviter les murs.
 
